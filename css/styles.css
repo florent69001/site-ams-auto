@@ -1,5 +1,7 @@
 /*Haut de page*/
 
+font-family: 'Comic Neue', cursive;
+
 body{
 	background-image: url("https://previews.123rf.com/images/kosssjulia/kosssjulia1608/kosssjulia160800031/61880045-planches-en-bois-blanc-comme-arri%C3%A8re-plan-texture-du-mur-en-bois.jpg");
 	background-size: 100%;
@@ -166,6 +168,7 @@ footer{
 /*Nous contacter*/
 
 .ouverture{
+	font-family: 'Comic Neue', cursive;
 	size: 100%;
 	height: 900px;
 	width:60%;
@@ -208,18 +211,21 @@ footer{
 /*A la vente*/
 
 .alavente, .restauration{
+	font-family: 'Comic Neue', cursive;
 	background-color: #414141;
 	width: 73.5%;
 	margin: 40px auto;
 	padding: 1px 10px 1px 10px;
 }
 .vente, .restauré{
+	font-family: 'Comic Neue', cursive;
 	text-decoration: underline;
 	color: white;
 	clear: left;
 	text-align: center;}
 
 .voiture1, .restauration1{
+	font-family: 'Comic Neue', cursive;
 	text-align: center;
 	color: white;
 	background-color: #515151;
@@ -228,6 +234,7 @@ footer{
 	padding: 1px 10px 1px 10px;}
 
 .clio{
+	font-family: 'Comic Neue', cursive;
 	width: 150px;
 	margin-left: 15px;
 	border: 3px solid white;
@@ -239,6 +246,7 @@ footer{
 /*Nos réalisations*/
 
 .f4{
+	font-family: 'Comic Neue', cursive;
 	width: 160px;
 	margin-left: 15px;
 	border: 3px solid white;
