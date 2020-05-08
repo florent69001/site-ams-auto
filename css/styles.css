@@ -1,13 +1,15 @@
 /*Haut de page*/
-font-family: 'Comic Neue', sans-serif, cursive;
+
+
 
 body{
-	background-image: url("https://previews.123rf.com/images/kosssjulia/kosssjulia1608/kosssjulia160800031/61880045-planches-en-bois-blanc-comme-arri%C3%A8re-plan-texture-du-mur-en-bois.jpg");
+	background-image:url("../img/fond.jpg");
 	background-size: 100%;
 	font-family: 'Comic Neue', sans-serif, cursive;
 }
 
 header{
+	font-family: 'Comic Neue', sans-serif, cursive;
 	background-color: black;
 	height: 150px;
 	padding: 6px 40px 0px 1px;
